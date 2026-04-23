@@ -73,7 +73,7 @@ export default function Navbar() {
                     <li className="cursor-pointer hover:text-white transition-colors duration-300" onClick={() => alert('Coming Soon')}>xAI</li>
                     <li className="cursor-pointer hover:text-white transition-colors duration-300" onClick={() => alert('Coming Soon')}>TeraFab</li>
                     <li className="cursor-pointer hover:text-white transition-colors duration-300" onClick={() => alert('Coming Soon')}>Company</li>
-                    <li className="cursor-pointer hover:text-white transition-colors duration-300">Shop</li>
+                    <li className="cursor-pointer hover:text-white transition-colors duration-300" onClick={() => navigate('/shop')}>Shop</li>
                 </ul>
             </div>
             <div className="flex items-center mt-6 lg:mt-0">
