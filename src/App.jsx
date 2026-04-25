@@ -33,11 +33,15 @@ export default function App() {
 
   const addToCart = (product, quantity) => {
     setCart(prev => {
-      prev.find(item => item.id === product.id) 
-      ?
-          prev.map(item => item.id === product.id ? { ...item, quantity: item.quantity + quantity } : item)
-      :
-         [...prev, { ...product, quantity }]
+      const existing = prev.find(item => item.id === product.id)
+      if (existing) {
+        return prev.map(item => 
+          item.id === product.id 
+            ? { ...item, quantity: item.quantity + quantity } 
+            : item
+        )
+      }
+      return [...prev, { ...product, quantity }]
     })
     setIsCartOpen(true)
   }
