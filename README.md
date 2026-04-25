@@ -55,4 +55,3 @@ A premium, high-performance web application cloning the SpaceX digital experienc
 - `src/context`: Simplified state management (where applicable).
 
 ---
-*Created as a demonstration of advanced frontend development and modern UI/UX design.*
