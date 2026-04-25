@@ -1,0 +1,1572 @@
+[
+  {
+    "id": 1,
+    "name": "Unisex SpaceX Go For Launch Sun Hoodie",
+    "price": 100,
+    "currency": "USD",
+    "status": "available",
+    "category": "Shirts",
+    "gender": "Unisex",
+    "url": "https://shop.spacex.com/collections/trending/products/spacex-unisex-lucky-launch-sun-hoodie",
+    "images": [
+      "https://shop.spacex.com/cdn/shop/files/Lt_Weight_Sun_Hoodie_Gray_Front_Hood_Up_600x.png?v=1775258970",
+      "https://shop.spacex.com/cdn/shop/files/Lt_Weight_Sun_Hoodie_Gray_Back_Hood_Up_600x.png?v=1775258970"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Unisex SpaceX Go For Launch Vehicle Polo",
+    "price": 85,
+    "currency": "USD",
+    "status": "available",
+    "category": "Shirts",
+    "gender": "Unisex",
+    "url": "https://shop.spacex.com/collections/trending/products/spacex-unisex-lucky-launch-polo-1",
+    "images": [
+      "https://shop.spacex.com/cdn/shop/files/Polo_Allover_Vehicle_Print_Front_Black_600x.png?v=1775259599",
+      "https://shop.spacex.com/cdn/shop/files/Polo_Allover_Vehicle_Print_Back_Black_600x.png?v=1775259599"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Premium Unisex Go For Launch T-Shirt",
+    "price": 45,
+    "currency": "USD",
+    "status": "available",
+    "category": "Shirts",
+    "gender": "Unisex",
+    "url": "https://shop.spacex.com/collections/trending/products/premium-unisex-lucky-launch-t-shirt",
+    "images": [
+      "https://shop.spacex.com/cdn/shop/files/Unisex_Lucky_Launch_T-shirt_White_Front_600x.png?v=1775263278",
+      "https://shop.spacex.com/cdn/shop/files/Unisex_Lucky_Launch_T-shirt_White_Back_600x.png?v=1775263278"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Go For Launch Adjustable Cap",
+    "price": 40,
+    "currency": "USD",
+    "status": "available",
+    "category": "Accessories",
+    "gender": "Unisex",
+    "url": "https://shop.spacex.com/collections/trending/products/go-for-launch-adjustable-cap",
+    "images": [
+      "https://shop.spacex.com/cdn/shop/files/Hat_Gray_GoForLaunch-FRONT_600x.png?v=1773103645",
+      "https://shop.spacex.com/cdn/shop/files/Hat_Gray_GoForLaunch-BACK_600x.png?v=1773103645"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Premium Women's Go For Launch T-Shirt",
+    "price": 45,
+    "currency": "USD",
+    "status": "available",
+    "category": "Shirts",
+    "gender": "Women",
+    "url": "https://shop.spacex.com/collections/trending/products/premium-womens-lucky-launch-t-shirt",
+    "images": [
+      "https://shop.spacex.com/cdn/shop/files/Womens_Lucky_Launch_T-shirt_White_Front_600x.png?v=1775263339",
+      "https://shop.spacex.com/cdn/shop/files/Womens_Lucky_Launch_T-shirt_White_Back_600x.png?v=1775263339"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Unisex SpaceX Go For Launch Polo",
+    "price": 85,
+    "currency": "USD",
+    "status": "available",
+    "category": "Shirts",
+    "gender": "Unisex",
+    "url": "https://shop.spacex.com/collections/trending/products/spacex-unisex-lucky-launch-polo",
+    "images": [
+      "https://shop.spacex.com/cdn/shop/files/Polo_Solid_Front_StoneGray_600x.png?v=1775260080",
+      "https://shop.spacex.com/cdn/shop/files/Polo_Solid_Back_StoneGray_600x.png?v=1775260080"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "SpaceX Unisex Occupy Moon T-Shirt",
+    "price": 35,
+    "currency": "USD",
+    "status": "coming_soon",
+    "category": "Shirts",
+    "gender": "Unisex",
+    "url": "https://shop.spacex.com/collections/trending/products/spacex-unisex-occupy-moon-t-shirt",
+    "images": [
+      "https://shop.spacex.com/cdn/shop/files/OccupyMoon_T-shirt_Front_Black_07576753-49d1-40df-9d72-c7734a099a73_600x.png?v=1775759493",
+      "https://shop.spacex.com/cdn/shop/files/OccupyMoon_T-shirt_Back_Black_d9beac42-b734-4940-9178-ea739e75afaf_600x.png?v=1775759493"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Starbase City Performance Hat",
+    "price": 50,
+    "currency": "USD",
+    "status": "available",
+    "category": "Accessories",
+    "gender": "Unisex",
+    "url": "https://shop.spacex.com/collections/trending/products/starbase-city-performance-hat",
+    "images": [
+      "https://shop.spacex.com/cdn/shop/files/Starbase_City_Performance_Hat_Front_600x.png?v=1770157479",
+      "https://shop.spacex.com/cdn/shop/files/Starbase_City_Performance_Hat_Back_600x.png?v=1770157479"
+    ]
+  },
+  {
+    "id": 9,
+    "name": "SpaceX Unisex It's Always Sunny In Space T-Shirt",
+    "price": 35,
+    "currency": "USD",
+    "status": "coming_soon",
+    "category": "Shirts",
+    "gender": "Unisex",
+    "url": "https://shop.spacex.com/collections/trending/products/spacex-unisex-its-always-sunny-in-space-t-shirt",
+    "images": [
+      "https://shop.spacex.com/cdn/shop/files/Its_Always_Sunny_T-shirt_Front_Black_05e7173a-d201-41f1-99fe-99858f7b0b20_600x.png?v=1775759055",
+      "https://shop.spacex.com/cdn/shop/files/ItsAlwaysSunny_T-shirt_Back_Black_600x.png?v=1775759240"
+    ]
+  },
+  {
+    "id": 10,
+    "name": "SpaceX Engineering Stone Paper Notebook",
+    "price": 40,
+    "currency": "USD",
+    "status": "available",
+    "category": "Accessories",
+    "gender": "Unisex",
+    "url": "https://shop.spacex.com/collections/trending/products/spacex-stone-paper-notebook",
+    "images": [
+      "https://shop.spacex.com/cdn/shop/files/SpaceX_Journal_Interior_Front_Fly_View_600x.png?v=1774388391",
+      "https://shop.spacex.com/cdn/shop/files/SpaceX_Journal_Front_Cover_View_1_600x.png?v=1774388355"
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Unisex Lucky Launch Work Jacket",
+    "price": 150,
+    "currency": "USD",
+    "status": "available",
+    "category": "Outerwear",
+    "gender": "Unisex",
+    "url": "https://shop.spacex.com/collections/trending/products/unisex-launch-work-jacket",
+    "images": [
+      "https://shop.spacex.com/cdn/shop/files/Work_Jacket_Lucky_Launch_Black_FRONT_600x.png?v=1772842804",
+      "https://shop.spacex.com/cdn/shop/files/Work_Jacket_Lucky_Launch_Black_Neck_Line_Detail_a8f98599-9c7f-4f64-88c9-951877ed8e01_600x.png?v=1772842804"
+    ]
+  },
+  {
+    "id": 12,
+    "name": "SpaceX Lucky Launch Sunglasses",
+    "price": 150,
+    "currency": "USD",
+    "status": "available",
+    "category": "Accessories",
+    "gender": "Unisex",
+    "url": "https://shop.spacex.com/collections/trending/products/spacex-mission-ready-sunglasses",
+    "images": [
+      "https://shop.spacex.com/cdn/shop/files/Sunglasses-INTERIOR-F-STACK1_6cfae8fb-b241-4e63-93bd-c57ed3d58c3d_600x.png?v=1772846186",
+      "https://shop.spacex.com/cdn/shop/files/Sunglasses-HardCaseopened_600x.png?v=1772846186"
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Lucky Launch Adjustable Cap",
+    "price": 40,
+    "currency": "USD",
+    "status": "available",
+    "category": "Accessories",
+    "gender": "Unisex",
+    "url": "https://shop.spacex.com/collections/trending/products/lucky-launch-adjustable-cap",
+    "images": [
+      "https://shop.spacex.com/cdn/shop/files/Hat_Black_4leafclover-FRONT_c15d9a00-a665-444e-b997-10e2a67216b9_600x.png?v=1773088564",
+      "https://shop.spacex.com/cdn/shop/files/Hat_Black_4leafclover-BACK_600x.png?v=1773088564"
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Unisex Lucky Launch T-Shirt",
+    "price": 35,
+    "currency": "USD",
+    "status": "available",
+    "category": "Shirts",
+    "gender": "Unisex",
+    "url": "https://shop.spacex.com/collections/trending/products/unisex-lucky-launch-t-shirt",
+    "images": [
+      "https://shop.spacex.com/cdn/shop/files/Lucky_Launch_T-shirt_Front_Black_600x.png?v=1772840450",
+      "https://shop.spacex.com/cdn/shop/files/Lucky_Launch_T-shirt_Back_Black_600x.png?v=1772840442"
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Starship Magnetic Building Tiles",
+    "price": 60,
+    "currency": "USD",
+    "status": "available",
+    "category": "Accessories",
+    "gender": "Unisex",
+    "url": "https://shop.spacex.com/collections/trending/products/starship-magnetic-building-tiles",
+    "images": [
+      "https://shop.spacex.com/cdn/shop/files/Ship_Booster_Stacked_Box_600x.png?v=1769475116",
+      "https://shop.spacex.com/cdn/shop/files/Ship_Booster_Box_600x.png?v=1769475109"
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Unisex Starship Yearly 2025 T-Shirt",
+    "price": 35,
+    "currency": "USD",
+    "status": "available",
+    "category": "Shirts",
+    "gender": "Unisex",
+    "url": "https://shop.spacex.com/collections/trending/products/unisex-starship-yearly-2025-t-shirt",
+    "images": [
+      "https://shop.spacex.com/cdn/shop/files/Starship_Yearly_2025_T-shirt_Front_Black_600x.png?v=1772546297",
+      "https://shop.spacex.com/cdn/shop/files/Starship_Yearly_2025__T-shirt_Back_Black_600x.png?v=1772546284"
+    ]
+  },
+  {
+    "id": 17,
+    "name": "SpaceX Arcadia Backpack",
+    "price": 175,
+    "currency": "USD",
+    "status": "available",
+    "category": "Accessories",
+    "gender": "Unisex",
+    "url": "https://shop.spacex.com/collections/trending/products/spacex-arcadia-backpack",
+    "images": [
+      "https://shop.spacex.com/cdn/shop/files/Arcadia_Backpack_front_open_view_600x.png?v=1767659298",
+      "https://shop.spacex.com/cdn/shop/files/Arcadia_Backpack_3-4_view_00e652d4-31d8-4a1c-aa2c-104247bf7390_600x.png?v=1767659286"
+    ]
+  },
+  {
+    "id": 18,
+    "name": "SpaceX Deimos Dopp Kit",
+    "price": 60,
+    "currency": "USD",
+    "status": "available",
+    "category": "Accessories",
+    "gender": "Unisex",
+    "url": "https://shop.spacex.com/collections/trending/products/spacex-deimos-dopp-kit",
+    "images": [
+      "https://shop.spacex.com/cdn/shop/files/Deimos_Dopp_Kit_front_view_open_600x.png?v=1767659514",
+      "https://shop.spacex.com/cdn/shop/files/Deimos_Dopp_Kit_front_view_600x.png?v=1767659514"
+    ]
+  },
+  {
+    "id": 19,
+    "name": "SpaceX Key Clip and Dock",
+    "price": 40,
+    "currency": "USD",
+    "status": "available",
+    "category": "Accessories",
+    "gender": "Unisex",
+    "url": "https://shop.spacex.com/collections/trending/products/spacex-key-clip-and-dock",
+    "images": [
+      "https://shop.spacex.com/cdn/shop/files/SpaceX_Key_Clip_and_Dock_front_view_600x.png?v=1767659571",
+      "https://shop.spacex.com/cdn/shop/files/SpaceX_Key_Clip_and_Dock_back_view_600x.png?v=1767659571"
+    ]
+  },
+  {
+    "id": 20,
+    "name": "SpaceX Phobos Tech Bag",
+    "price": 60,
+    "currency": "USD",
+    "status": "available",
+    "category": "Accessories",
+    "gender": "Unisex",
+    "url": "https://shop.spacex.com/collections/trending/products/spacex-phobos-tech-bag",
+    "images": [
+      "https://shop.spacex.com/cdn/shop/files/Phobos_Tech_Bag_front_view_open_600x.png?v=1767659477",
+      "https://shop.spacex.com/cdn/shop/files/Phobos_Tech_Bag_front_view_600x.png?v=1767659477"
+    ]
+  },
+  {
+    "id": 21,
+    "name": "SpaceX Mens Heavyweight 3 in 1 Jacket",
+    "price": 350,
+    "currency": "USD",
+    "status": "available",
+    "category": "Outerwear",
+    "gender": "Men",
+    "url": "https://shop.spacex.com/collections/trending/products/spacex-heavyweight-3-in-1-jacket",
+    "images": [
+      "https://shop.spacex.com/cdn/shop/files/MENS_JACKET_FRONT_OPEN_DETAIL_600x.png?v=1767730965",
+      "https://shop.spacex.com/cdn/shop/files/MENS_JACKET_3-4_VIEW_600x.png?v=1767730965"
+    ]
+  },
+  {
+    "id": 22,
+    "name": "SpaceX Womens Heavyweight 3 in 1 Jacket",
+    "price": 350,
+    "currency": "USD",
+    "status": "available",
+    "category": "Outerwear",
+    "gender": "Women",
+    "url": "https://shop.spacex.com/collections/trending/products/spacex-womens-heavyweight-3-in-1-jacket",
+    "images": [
+      "https://shop.spacex.com/cdn/shop/files/WOMENS_JACKET_FRONT_OPEN_DETAIL_600x.png?v=1767730883",
+      "https://shop.spacex.com/cdn/shop/files/WOMENS_JACKET_3-4_VIEW_600x.png?v=1767730735"
+    ]
+  },
+  {
+    "id": 23,
+    "name": "SpaceX Bandana 2-Pack",
+    "price": 35,
+    "currency": "USD",
+    "status": "available",
+    "category": "Accessories",
+    "gender": "Unisex",
+    "url": "https://shop.spacex.com/collections/trending/products/spacex-bandana-2-pack",
+    "images": [
+      "https://shop.spacex.com/cdn/shop/files/Bandana_Black_colorway_FRONT_600x.png?v=1761594155",
+      "https://shop.spacex.com/cdn/shop/files/Bandana_Black_Bluecolorway_STACK_600x.png?v=1761594155"
+    ]
+  },
+  {
+    "id": 24,
+    "name": "Unisex SpaceX Starlink Vintage T-Shirt",
+    "price": 40,
+    "currency": "USD",
+    "status": "available",
+    "category": "Shirts",
+    "gender": "Unisex",
+    "url": "https://shop.spacex.com/collections/trending/products/unisex-spacex-starlink-vintage-t-shirt",
+    "images": [
+      "https://shop.spacex.com/cdn/shop/files/Adult_Vintage_T-Shirt_Starlink_Front_600x.png?v=1762992173",
+      "https://shop.spacex.com/cdn/shop/files/Adult_Vintage_T-Shirt_Starlink_Detail_600x.png?v=1762992173"
+    ]
+  },
+  {
+    "id": 25,
+    "name": "Unisex Starlink Schematic T-Shirt",
+    "price": 35,
+    "currency": "USD",
+    "status": "available",
+    "category": "Shirts",
+    "gender": "Unisex",
+    "url": "https://shop.spacex.com/collections/trending/products/unisex-starlink-schematic-t-shirt",
+    "images": [
+      "https://shop.spacex.com/cdn/shop/files/Starlink_Schematic_T-shirt_Front_Black_600x.png?v=1762989748",
+      "https://shop.spacex.com/cdn/shop/files/Starlink_Schematic_T-shirt_Back_Black_600x.png?v=1762989733"
+    ]
+  },
+  {
+    "id": 26,
+    "name": "SpaceX Vol 1 Coloring Book",
+    "price": 30,
+    "currency": "USD",
+    "status": "available",
+    "category": "Accessories",
+    "gender": "Unisex",
+    "url": "https://shop.spacex.com/collections/trending/products/spacex-vol-1-coloring-book",
+    "images": [
+      "https://shop.spacex.com/cdn/shop/files/COLORING_BOOK_COLORED_PENCILS_STARSHIP_600x.png?v=1761768140",
+      "https://shop.spacex.com/cdn/shop/files/Coloring_Book_Cover_with_pencils_600x.png?v=1761768140"
+    ]
+  },
+  {
+    "id": 27,
+    "name": "Unisex Dragon Schematic T-Shirt",
+    "price": 35,
+    "currency": "USD",
+    "status": "available",
+    "category": "Shirts",
+    "gender": "Unisex",
+    "url": "https://shop.spacex.com/collections/trending/products/unisex-dragon-schematic-t-shirt",
+    "images": [
+      "https://shop.spacex.com/cdn/shop/files/DragonSchematic_T-shirt_Front_Charcoal_600x.png?v=1761781448",
+      "https://shop.spacex.com/cdn/shop/files/DragonSchematic_T-shirt_Back_Charcoal_8a0de271-e03f-47ab-91cc-2e2d953ec783_600x.png?v=1761781435"
+    ]
+  },
+  {
+    "id": 28,
+    "name": "Unisex Recovery Schematic T-Shirt",
+    "price": 35,
+    "currency": "USD",
+    "status": "available",
+    "category": "Shirts",
+    "gender": "Unisex",
+    "url": "https://shop.spacex.com/collections/trending/products/unisex-recovery-schematic-t-shirt",
+    "images": [
+      "https://shop.spacex.com/cdn/shop/files/RecoverySchematic_T-shirt_Front_Navy_600x.png?v=1761782243",
+      "https://shop.spacex.com/cdn/shop/files/RecoverySchematic_T-shirt_Back_Navy_600x.png?v=1761782235"
+    ]
+  },
+  {
+    "id": 29,
+    "name": "Unisex SpaceX Track Jacket",
+    "price": 80,
+    "currency": "USD",
+    "status": "available",
+    "category": "Outerwear",
+    "gender": "Unisex",
+    "url": "https://shop.spacex.com/collections/trending/products/spacex-track-jacket",
+    "images": [
+      "https://shop.spacex.com/cdn/shop/files/SPACE-TRACK-JACKETS-SLATE-FRONT_600x.png?v=1769471879",
+      "https://shop.spacex.com/cdn/shop/files/SPACE-TRACK-JACKETS-SLATE-BACK_600x.png?v=1769471879"
+    ]
+  },
+  {
+    "id": 30,
+    "name": "SpaceX Sticker Pack",
+    "price": 20,
+    "currency": "USD",
+    "status": "available",
+    "category": "Accessories",
+    "gender": "Unisex",
+    "url": "https://shop.spacex.com/collections/trending/products/spacex-sticker-pack",
+    "images": [
+      "https://shop.spacex.com/cdn/shop/files/SPACEX_STICKERS_ARRANGED_600x.png?v=1761928567",
+      "https://shop.spacex.com/cdn/shop/files/SPACEX_STICKERS_PACKVIEW_600x.png?v=1761583267"
+    ]
+  },
+  {
+    "id": 31,
+    "name": "Unisex SpaceX Starship Vintage T-Shirt",
+    "price": 40,
+    "currency": "USD",
+    "status": "available",
+    "category": "Shirts",
+    "collections": [
+      "Men"
+    ],
+    "gender": "Unisex",
+    "colors": [
+      "Black"
+    ],
+    "url": "https://shop.spacex.com/products/unisex-spacex-starship-vintage-t-shirt",
+    "images": [
+      "https://shop.spacex.com/cdn/shop/files/Adult_Vintage_T-Shirt_Starship_Front_600x.png?v=1756157617",
+      "https://shop.spacex.com/cdn/shop/files/Adult_Vintage_T-Shirt_Starship_Detail_600x.png?v=1756157617"
+    ]
+  },
+  {
+    "id": 32,
+    "name": "Unisex SpaceX Falcon 9 Vintage T-Shirt",
+    "price": 40,
+    "currency": "USD",
+    "status": "available",
+    "category": "Shirts",
+    "collections": [
+      "Men"
+    ],
+    "gender": "Unisex",
+    "colors": [
+      "Black"
+    ],
+    "url": "https://shop.spacex.com/products/unisex-spacex-falcon-9-vintage-t-shirt",
+    "images": [
+      "https://shop.spacex.com/cdn/shop/files/Adult_Vintage_T-Shirt_Falcon_9_Front_600x.png?v=1756157560",
+      "https://shop.spacex.com/cdn/shop/files/Adult_Vintage_T-Shirt_Falcon_9_Detail_600x.png?v=1756157560"
+    ]
+  },
+  {
+    "id": 33,
+    "name": "Unisex SpaceX Dragon Vintage T-Shirt",
+    "price": 40,
+    "currency": "USD",
+    "status": "available",
+    "category": "Shirts",
+    "collections": [
+      "Men"
+    ],
+    "gender": "Unisex",
+    "colors": [
+      "Black"
+    ],
+    "url": "https://shop.spacex.com/products/unisex-spacex-dragon-vintage-t-shirt",
+    "images": [
+      "https://shop.spacex.com/cdn/shop/files/Adult_Vintage_T-Shirt_Dragon_Front_600x.png?v=1756157487",
+      "https://shop.spacex.com/cdn/shop/files/Adult_Vintage_T-Shirt_Dragon_Detail_600x.png?v=1756157487"
+    ]
+  },
+  {
+    "id": 34,
+    "name": "Unisex SpaceX Falcon Heavy Vintage T-Shirt",
+    "price": 40,
+    "currency": "USD",
+    "status": "available",
+    "category": "Shirts",
+    "collections": [
+      "Men"
+    ],
+    "gender": "Unisex",
+    "colors": [
+      "Black"
+    ],
+    "url": "https://shop.spacex.com/products/unisex-spacex-falcon-heavy-vintage-t-shirt",
+    "images": [
+      "https://shop.spacex.com/cdn/shop/files/Adult_Vintage_T-Shirt_Falcon_Heavy_Front_600x.png?v=1756157429",
+      "https://shop.spacex.com/cdn/shop/files/Adult_Vintage_T-Shirt_Falcon_Heavy_Detail_600x.png?v=1756157429"
+    ]
+  },
+  {
+    "id": 35,
+    "name": "Unisex Starship Heatshield Pullover Hoodie",
+    "price": 65,
+    "currency": "USD",
+    "status": "available",
+    "category": "Outerwear",
+    "collections": [
+      "Men"
+    ],
+    "gender": "Unisex",
+    "colors": [
+      "Gray",
+      "Black"
+    ],
+    "url": "https://shop.spacex.com/products/unisex-starship-heatshield-pullover-hoodie",
+    "images": [
+      "https://shop.spacex.com/cdn/shop/products/HEATSHIELD_HOODIE_MENS_MEDIUM_CLOSEUP_600x.png?v=1689021321",
+      "https://shop.spacex.com/cdn/shop/products/HEATSHIELD_HOODIE_MENS_MEDIUM_BACK_600x.png?v=1689021321"
+    ]
+  },
+  {
+    "id": 36,
+    "name": "Men's F9 T-Shirt",
+    "price": 35,
+    "currency": "USD",
+    "status": "available",
+    "category": "Shirts",
+    "collections": [
+      "Men"
+    ],
+    "gender": "Men",
+    "colors": [
+      "Maroon"
+    ],
+    "url": "https://shop.spacex.com/products/mens-f9-t-shirt",
+    "images": [
+      "https://shop.spacex.com/cdn/shop/files/Mens_F9_TSHIRT_Maroon_Front_600x.png?v=1731542151",
+      "https://shop.spacex.com/cdn/shop/files/Mens_F9_TSHIRT_Maroon_Back_600x.png?v=1731542151"
+    ]
+  },
+  {
+    "id": 37,
+    "name": "Men's Dragon T-Shirt",
+    "price": 35,
+    "currency": "USD",
+    "status": "available",
+    "category": "Shirts",
+    "collections": [
+      "Men"
+    ],
+    "gender": "Men",
+    "colors": [
+      "Navy"
+    ],
+    "url": "https://shop.spacex.com/products/mens-dragon-t-shirt",
+    "images": [
+      "https://shop.spacex.com/cdn/shop/files/Mens_Dragon_T-Shirt-Navy_Front_1f8d4116-05f4-4b26-9137-ba93068c4570_600x.png?v=1731541568",
+      "https://shop.spacex.com/cdn/shop/files/Mens_Dragon_T-Shirt-Navy_Back_f0bb8662-7571-4d61-9fa4-ab47228fb5f4_600x.png?v=1731541567"
+    ]
+  },
+  {
+    "id": 38,
+    "name": "Men's SpaceX T-Shirt",
+    "price": 35,
+    "currency": "USD",
+    "status": "available",
+    "category": "Shirts",
+    "collections": [
+      "Men"
+    ],
+    "gender": "Men",
+    "colors": [
+      "Black"
+    ],
+    "url": "https://shop.spacex.com/products/mens-spacex-t-shirt-1",
+    "images": [
+      "https://shop.spacex.com/cdn/shop/files/Mens_SpaceX_T-Shirt_Black_Front_600x.png?v=1731542708",
+      "https://shop.spacex.com/cdn/shop/files/Mens_SpaceX_T-Shirt_Black_Back_600x.png?v=1731542708"
+    ]
+  },
+  {
+    "id": 39,
+    "name": "Men's Falcon Heavy T-Shirt",
+    "price": 35,
+    "currency": "USD",
+    "status": "available",
+    "category": "Shirts",
+    "collections": [
+      "Men"
+    ],
+    "gender": "Men",
+    "colors": [
+      "Maroon"
+    ],
+    "url": "https://shop.spacex.com/products/mens-fh-t-shirt",
+    "images": [
+      "https://shop.spacex.com/cdn/shop/files/Mens_FH_TSHIRT_Maroon_Front_600x.png?v=1731542474",
+      "https://shop.spacex.com/cdn/shop/files/Mens_FH_TSHIRT_Maroon_BACK_600x.png?v=1731542474"
+    ]
+  },
+  {
+    "id": 40,
+    "name": "Unisex SpaceX Long Sleeve T-Shirt",
+    "price": 40,
+    "currency": "USD",
+    "status": "available",
+    "category": "Shirts",
+    "collections": [
+      "Men"
+    ],
+    "gender": "Unisex",
+    "colors": [
+      "Black"
+    ],
+    "url": "https://shop.spacex.com/products/unisex-spacex-long-sleeve-t-shirt",
+    "images": [
+      "https://shop.spacex.com/cdn/shop/files/Unisex_SpaceX_LST-Shirt_Black_Front_600x.png?v=1731546912",
+      "https://shop.spacex.com/cdn/shop/files/Unisex_SpaceX_LST-Shirt_Black_Back_600x.png?v=1731546913"
+    ]
+  },
+  {
+    "id": 41,
+    "name": "Unisex SpaceX Zipper Hoodie",
+    "price": 65,
+    "currency": "USD",
+    "status": "available",
+    "category": "Outerwear",
+    "collections": [
+      "Men"
+    ],
+    "gender": "Unisex",
+    "colors": [
+      "Military Green",
+      "Black"
+    ],
+    "url": "https://shop.spacex.com/products/unisex-spacex-zipper-hoodie",
+    "images": [
+      "https://shop.spacex.com/cdn/shop/files/Unisex_SpaceX_ZipHoodie_MilitaryGreen_Front_600x.png?v=1746224104",
+      "https://shop.spacex.com/cdn/shop/files/Unisex_SpaceX_ZipHoodie_MilitaryGreen_Back_600x.png?v=1746224104"
+    ]
+  },
+  {
+    "id": 42,
+    "name": "Unisex SpaceX Pullover Hoodie",
+    "price": 65,
+    "currency": "USD",
+    "status": "available",
+    "category": "Outerwear",
+    "collections": [
+      "Men"
+    ],
+    "gender": "Unisex",
+    "colors": [
+      "Charcoal",
+      "Military Green",
+      "Black"
+    ],
+    "url": "https://shop.spacex.com/products/unisex-spacex-pullover-hoodie",
+    "images": [
+      "https://shop.spacex.com/cdn/shop/files/Unisex_SpaceX_PulloverHoodie_Charcoal_Front_600x.png?v=1746224079",
+      "https://shop.spacex.com/cdn/shop/files/Unisex_SpaceX_PulloverHoodie_Charcoal_Back_600x.png?v=1746224079"
+    ]
+  },
+  {
+    "id": 43,
+    "name": "Unisex SpaceX Sweatshirt",
+    "price": 65,
+    "currency": "USD",
+    "status": "available",
+    "category": "Outerwear",
+    "collections": [
+      "Men"
+    ],
+    "gender": "Unisex",
+    "colors": [
+      "Black",
+      "Military Green"
+    ],
+    "url": "https://shop.spacex.com/products/unisex-spacex-sweatshirt",
+    "images": [
+      "https://shop.spacex.com/cdn/shop/files/Unisex_SpaceX_CrewSweatshirt_Black_Front_600x.png?v=1738007606",
+      "https://shop.spacex.com/cdn/shop/files/Unisex_SpaceX_CrewSweatshirt_Black_Back_600x.png?v=1738007606"
+    ]
+  },
+  {
+    "id": 44,
+    "name": "Unisex Starship Schematic T-Shirt",
+    "price": 35,
+    "currency": "USD",
+    "status": "available",
+    "category": "Shirts",
+    "collections": [
+      "Men"
+    ],
+    "gender": "Unisex",
+    "colors": [
+      "Charcoal"
+    ],
+    "url": "https://shop.spacex.com/products/unisex-starship-schematic-t-shirt",
+    "images": [
+      "https://shop.spacex.com/cdn/shop/files/Unisex_Starship_Schematic_Charcoal_Front_600x.png?v=1746477203",
+      "https://shop.spacex.com/cdn/shop/files/Unisex_Starship_Schematic_Charcoal_Back_ebd9ca8f-90d5-4bf0-b64d-5c8f2e64ad45_600x.png?v=1746477203"
+    ]
+  },
+  {
+    "id": 45,
+    "name": "Men's Starman T-Shirt",
+    "price": 35,
+    "currency": "USD",
+    "status": "available",
+    "category": "Shirts",
+    "collections": [
+      "Men"
+    ],
+    "gender": "Men",
+    "colors": [
+      "Black"
+    ],
+    "url": "https://shop.spacex.com/products/men-s-starman-t-shirt",
+    "images": [
+      "https://shop.spacex.com/cdn/shop/products/MENS-starman-black-FRONT_0414b62c-7de5-4a9d-916b-05a86976fa63_600x.png?v=1631726634",
+      "https://shop.spacex.com/cdn/shop/products/MENS-STARMAN-T-SHIRT-BLACK-BACK_600x.png?v=1631726634"
+    ]
+  },
+  {
+    "id": 46,
+    "name": "Men's Occupy Mars T-Shirt",
+    "price": 35,
+    "currency": "USD",
+    "status": "available",
+    "category": "Shirts",
+    "collections": [
+      "Men"
+    ],
+    "gender": "Men",
+    "colors": [
+      "Black"
+    ],
+    "url": "https://shop.spacex.com/products/occupy-mars-t-shirt",
+    "images": [
+      "https://shop.spacex.com/cdn/shop/products/MENS-oocupymars-black-FRONT_600x.png?v=1631725808",
+      "https://shop.spacex.com/cdn/shop/products/MENS-OCCUPY-MARS-T-SHIRT-BLACK-BACK_600x.png?v=1631725808"
+    ]
+  },
+  {
+    "id": 47,
+    "name": "Unisex Starlink T-Shirt",
+    "price": 35,
+    "currency": "USD",
+    "status": "available",
+    "category": "Shirts",
+    "collections": [
+      "Men"
+    ],
+    "gender": "Unisex",
+    "colors": [
+      "Black"
+    ],
+    "url": "https://shop.spacex.com/products/unisex-starlink-t-shirt-1",
+    "images": [
+      "https://shop.spacex.com/cdn/shop/files/MENS-STARLINK_NEW_-T-SHIRT-BLACK-FRONT_600x.png?v=1749759996",
+      "https://shop.spacex.com/cdn/shop/files/STARLINK_UNISEX-T-SHIRT-BLACK-BACK_f39f9e1f-4763-46fa-84ff-3cb29f349b5a_600x.png?v=1749758837"
+    ]
+  },
+  {
+    "id": 48,
+    "name": "Men's Falcon 1 T-Shirt",
+    "price": 35,
+    "currency": "USD",
+    "status": "available",
+    "category": "Shirts",
+    "collections": [
+      "Men"
+    ],
+    "gender": "Men",
+    "colors": [
+      "Military Green",
+      "Gray",
+      "Charcoal"
+    ],
+    "url": "https://shop.spacex.com/products/men-s-falcon-1-t-shirt",
+    "images": [
+      "https://shop.spacex.com/cdn/shop/products/SPACEX-TSHIRT-MENS-FLCN1-MILITARY-F_600x.png?v=1689356422",
+      "https://shop.spacex.com/cdn/shop/products/SPACEX-TSHIRT-MENS-FLCN1-MILITARY-Bcopy_600x.png?v=1689356422"
+    ]
+  },
+  {
+    "id": 49,
+    "name": "Unisex Occupy Mars Pullover Hoodie",
+    "price": 65,
+    "currency": "USD",
+    "status": "available",
+    "category": "Outerwear",
+    "collections": [
+      "Men"
+    ],
+    "gender": "Unisex",
+    "colors": [
+      "Black"
+    ],
+    "url": "https://shop.spacex.com/products/occupy-mars-hoodie",
+    "images": [
+      "https://shop.spacex.com/cdn/shop/products/UNISEX_SPACEX_PULLOVER_BEIMAR_BLACK_BACK_600x.png?v=1631677599",
+      "https://shop.spacex.com/cdn/shop/products/UNISEX_OCCUPY_MARS_BLACK_600x.png?v=1631677589"
+    ]
+  },
+  {
+    "id": 50,
+    "name": "SpaceX Cards 10 Pack",
+    "price": 30,
+    "currency": "USD",
+    "status": "available",
+    "category": "Accessories",
+    "collections": [
+      "Accessories"
+    ],
+    "gender": "Unisex",
+    "url": "https://shop.spacex.com/products/spacex-cards-10-pack",
+    "images": [
+      "https://shop.spacex.com/cdn/shop/files/Starship_Orbit_cards_2_600x.png?v=1765995266",
+      "https://shop.spacex.com/cdn/shop/files/Starship_Orbit_cards_1_600x.png?v=1765995266"
+    ]
+  },
+  {
+    "id": 51,
+    "name": "SpaceX Floaty Pen 5-Pack",
+    "price": 30,
+    "currency": "USD",
+    "status": "sold_out",
+    "category": "Accessories",
+    "collections": [
+      "Accessories"
+    ],
+    "gender": "Unisex",
+    "url": "https://shop.spacex.com/products/spacex-floaty-pen-5-pack",
+    "images": [
+      "https://shop.spacex.com/cdn/shop/files/FloatyPens_random_layout_600x.png?v=1764009725",
+      "https://shop.spacex.com/cdn/shop/files/FloatyPens_packaging_600x.png?v=1764009725"
+    ]
+  },
+  {
+    "id": 52,
+    "name": "Starship Mission Patch Coaster Set",
+    "price": 20,
+    "currency": "USD",
+    "status": "available",
+    "category": "Accessories",
+    "collections": [
+      "Accessories"
+    ],
+    "gender": "Unisex",
+    "url": "https://shop.spacex.com/products/starship-mission-patch-coaster-set",
+    "images": [
+      "https://shop.spacex.com/cdn/shop/files/STARSHIPCOASTERLAYOUT1_600x.png?v=1755888069",
+      "https://shop.spacex.com/cdn/shop/files/PACKONSTARSHIPCOASTEROPEN_600x.png?v=1755888027"
+    ]
+  },
+  {
+    "id": 53,
+    "name": "Starbase City Sticker Pack",
+    "price": 20,
+    "currency": "USD",
+    "status": "available",
+    "category": "Accessories",
+    "collections": [
+      "Accessories"
+    ],
+    "gender": "Unisex",
+    "url": "https://shop.spacex.com/products/starbase-city-sticker-pack",
+    "images": [
+      "https://shop.spacex.com/cdn/shop/files/STARBASE_STICKERS_RANDOM_600x.png?v=1761583663",
+      "https://shop.spacex.com/cdn/shop/files/STARBASE_STICKERS_PACKVIEW_600x.png?v=1761583663"
+    ]
+  },
+  {
+    "id": 54,
+    "name": "Starlink Sticker Pack",
+    "price": 20,
+    "currency": "USD",
+    "status": "available",
+    "category": "Accessories",
+    "collections": [
+      "Accessories"
+    ],
+    "gender": "Unisex",
+    "url": "https://shop.spacex.com/products/starlink-sticker-pack-1",
+    "images": [
+      "https://shop.spacex.com/cdn/shop/files/STARLINK_STICKERS_ARRANGED_600x.png?v=1761928546",
+      "https://shop.spacex.com/cdn/shop/files/STARLINK_STICKERS_PACK_VIEW_600x.png?v=1761583338"
+    ]
+  },
+  {
+    "id": 55,
+    "name": "SpaceX Bottle",
+    "price": 50,
+    "currency": "USD",
+    "status": "available",
+    "category": "Accessories",
+    "collections": [
+      "Accessories"
+    ],
+    "gender": "Unisex",
+    "url": "https://shop.spacex.com/products/spacex-bottle",
+    "images": [
+      "https://shop.spacex.com/cdn/shop/files/Space_X_Bottle_Silver_Front_600x.png?v=1757463235",
+      "https://shop.spacex.com/cdn/shop/files/Space_X_Bottle_Silver_Back_600x.png?v=1757463235"
+    ]
+  },
+  {
+    "id": 56,
+    "name": "SpaceX Tumbler",
+    "price": 35,
+    "currency": "USD",
+    "status": "available",
+    "category": "Accessories",
+    "collections": [
+      "Accessories"
+    ],
+    "gender": "Unisex",
+    "url": "https://shop.spacex.com/products/spacex-tumbler",
+    "images": [
+      "https://shop.spacex.com/cdn/shop/files/Space_X_Tumbler_Black_Front_600x.png?v=1757463311",
+      "https://shop.spacex.com/cdn/shop/files/Space_X_Tumbler_Black_Back_600x.png?v=1757463311"
+    ]
+  },
+  {
+    "id": 57,
+    "name": "Starship Torch",
+    "price": 175,
+    "currency": "USD",
+    "status": "available",
+    "category": "Accessories",
+    "collections": [
+      "Accessories"
+    ],
+    "gender": "Unisex",
+    "url": "https://shop.spacex.com/products/starship-torch-2",
+    "images": [
+      "https://shop.spacex.com/cdn/shop/files/torch_smore_web_cd26e761-f8aa-43ed-9a32-80e7bba713a2_600x.jpg?v=1717537181",
+      "https://shop.spacex.com/cdn/shop/files/Starship_Torch_smores_600x.jpg?v=1717537181"
+    ]
+  },
+  {
+    "id": 58,
+    "name": "SpaceX Crew Dragon Plush",
+    "price": 50,
+    "currency": "USD",
+    "status": "available",
+    "category": "Accessories",
+    "collections": [
+      "Accessories"
+    ],
+    "gender": "Unisex",
+    "url": "https://shop.spacex.com/products/spacex-crew-dragon-plush",
+    "images": [
+      "https://shop.spacex.com/cdn/shop/files/DRAGON_STARMAN_PLUSHIE_BOTH_2_600x.png?v=1727398849",
+      "https://shop.spacex.com/cdn/shop/files/DRAGON_STARMAN_PLUSHIE_BOTH_3_600x.png?v=1727398863"
+    ]
+  },
+  {
+    "id": 59,
+    "name": "SpaceX Dragon Scale Model",
+    "price": 300,
+    "currency": "USD",
+    "status": "available",
+    "category": "Accessories",
+    "collections": [
+      "Accessories"
+    ],
+    "gender": "Unisex",
+    "url": "https://shop.spacex.com/products/spacex-dragon-scale-model-pre-sale",
+    "images": [
+      "https://shop.spacex.com/cdn/shop/files/DRAGON_SCALEMODEL_FRONT_600x.png?v=1724454450",
+      "https://shop.spacex.com/cdn/shop/files/SPACEX_DRAGON_SCALEMODEL_CLOSEUP2_600x.png?v=1724454451"
+    ]
+  },
+  {
+    "id": 60,
+    "name": "SpaceX IVA Suit Figure",
+    "price": 300,
+    "currency": "USD",
+    "status": "available",
+    "category": "Accessories",
+    "collections": [
+      "Accessories"
+    ],
+    "gender": "Unisex",
+    "url": "https://shop.spacex.com/products/spacex-iva-suit-figure-pre-sale",
+    "images": [
+      "https://shop.spacex.com/cdn/shop/files/SPACEX_STARFIGURE_FRONT_QUARTER_RIGHT_600x.png?v=1724454097",
+      "https://shop.spacex.com/cdn/shop/files/SPACEX_STARFIGURE_CLOSEUP_600x.png?v=1724454097"
+    ]
+  },
+  {
+    "id": 61,
+    "name": "SpaceX F9 Model",
+    "price": 150,
+    "currency": "USD",
+    "status": "available",
+    "category": "Accessories",
+    "collections": [
+      "Accessories"
+    ],
+    "gender": "Unisex",
+    "url": "https://shop.spacex.com/products/spacex-f9-model",
+    "images": [
+      "https://shop.spacex.com/cdn/shop/products/SPACE-X-ROCKET-2022-10-1141454_600x.png?v=1666795392",
+      "https://shop.spacex.com/cdn/shop/products/SPACE-X-ROCKET-2022-10-1141458_600x.png?v=1666795119"
+    ]
+  },
+  {
+    "id": 62,
+    "name": "SpaceX Dragon Pin",
+    "price": 30,
+    "currency": "USD",
+    "status": "available",
+    "category": "Accessories",
+    "collections": [
+      "Accessories"
+    ],
+    "gender": "Unisex",
+    "url": "https://shop.spacex.com/products/spacex-dragon-pin",
+    "images": [
+      "https://shop.spacex.com/cdn/shop/files/SPACEX_DRAGONPIN_FRONT_600x.png?v=1724598514",
+      "https://shop.spacex.com/cdn/shop/files/SPACEX_DRAGONPIN_ANGLED_600x.png?v=1724598514"
+    ]
+  },
+  {
+    "id": 63,
+    "name": "Super Heavy Chrome Model",
+    "price": 499,
+    "currency": "USD",
+    "status": "available",
+    "category": "Accessories",
+    "collections": [
+      "Accessories"
+    ],
+    "gender": "Unisex",
+    "url": "https://shop.spacex.com/products/super-heavy-chrome-model",
+    "images": [
+      "https://shop.spacex.com/cdn/shop/files/StarshipBoosterOpenedPackaging_600x.png?v=1699917817",
+      "https://shop.spacex.com/cdn/shop/files/SpaceXBoosterFullyStacked_600x.png?v=1699917818"
+    ]
+  },
+  {
+    "id": 64,
+    "name": "Starship Chrome Model",
+    "price": 300,
+    "currency": "USD",
+    "status": "available",
+    "category": "Accessories",
+    "collections": [
+      "Accessories"
+    ],
+    "gender": "Unisex",
+    "url": "https://shop.spacex.com/products/starship-chrome-model",
+    "images": [
+      "https://shop.spacex.com/cdn/shop/products/Unknown-2_600x.png?v=1681580111",
+      "https://shop.spacex.com/cdn/shop/products/Unknown-1_600x.png?v=1681580111"
+    ]
+  },
+  {
+    "id": 65,
+    "name": "Hotstage Booster Upgrade Kit",
+    "price": 125,
+    "currency": "USD",
+    "status": "available",
+    "category": "Accessories",
+    "collections": [
+      "Accessories"
+    ],
+    "gender": "Unisex",
+    "url": "https://shop.spacex.com/products/starship-hotstage-pre-sale",
+    "images": [
+      "https://shop.spacex.com/cdn/shop/files/hotstage_booster_1_600x.png?v=1710198422",
+      "https://shop.spacex.com/cdn/shop/files/hotstage_600x.png?v=1710198422"
+    ]
+  },
+  {
+    "id": 66,
+    "name": "Starlink Bottle",
+    "price": 40,
+    "currency": "USD",
+    "status": "available",
+    "category": "Accessories",
+    "collections": [
+      "Accessories"
+    ],
+    "gender": "Unisex",
+    "colors": [
+      "Black",
+      "White"
+    ],
+    "url": "https://shop.spacex.com/products/starlink-bottle",
+    "images": [
+      "https://shop.spacex.com/cdn/shop/files/Starlinktumbler_Black-S2_600x.png?v=1736558202",
+      "https://shop.spacex.com/cdn/shop/files/Starlinktumbler_Black-S1_600x.png?v=1736558202"
+    ]
+  },
+  {
+    "id": 67,
+    "name": "Starlink Blanket and Tote",
+    "price": 50,
+    "currency": "USD",
+    "status": "available",
+    "category": "Accessories",
+    "collections": [
+      "Accessories"
+    ],
+    "gender": "Unisex",
+    "url": "https://shop.spacex.com/products/starlink-blanket-and-tote",
+    "images": [
+      "https://shop.spacex.com/cdn/shop/files/STARLINK-BLANKET-NAVY-1_600x.png?v=1738085109",
+      "https://shop.spacex.com/cdn/shop/files/STARLINK-BLANKET-TOTE_600x.png?v=1738085109"
+    ]
+  },
+  {
+    "id": 68,
+    "name": "SpaceX Banana For Scale Wall Decal",
+    "price": 75,
+    "currency": "USD",
+    "status": "available",
+    "category": "Accessories",
+    "collections": [
+      "Accessories"
+    ],
+    "gender": "Unisex",
+    "url": "https://shop.spacex.com/products/spacex-banana-for-scale-wall-decal",
+    "images": [
+      "https://shop.spacex.com/cdn/shop/files/SPACEX_BANANAFORSCALE_DECAL_2_600x.jpg?v=1731605836",
+      "https://shop.spacex.com/cdn/shop/files/Banana_for_scale_wall_decal_600x.png?v=1731536990"
+    ]
+  },
+  {
+    "id": 69,
+    "name": "SpaceX Starship Flight 6 Banana Plush",
+    "price": 30,
+    "currency": "USD",
+    "status": "available",
+    "category": "Accessories",
+    "collections": [
+      "Accessories"
+    ],
+    "gender": "Unisex",
+    "url": "https://shop.spacex.com/products/spacex-starship-flight-6-banana",
+    "images": [
+      "https://shop.spacex.com/cdn/shop/files/SpaceXBananaZGI_2_48b84adb-cd0e-4a2f-a85b-dda0011ffb91_600x.jpg?v=1732059302",
+      "https://shop.spacex.com/cdn/shop/files/SpaceX_Banana_Plush_Side_View_aa57cc67-bb15-4932-9662-45227bc9881b_600x.png?v=1731722566"
+    ]
+  },
+  {
+    "id": 70,
+    "name": "SpaceX Mechazilla Wall Decal",
+    "price": 75,
+    "currency": "USD",
+    "status": "available",
+    "category": "Accessories",
+    "collections": [
+      "Accessories"
+    ],
+    "gender": "Unisex",
+    "url": "https://shop.spacex.com/products/spacex-mechazilla-wall-decal",
+    "images": [
+      "https://shop.spacex.com/cdn/shop/files/Mechazilla_Booster_S30_decal1_600x.png?v=1731628747",
+      "https://shop.spacex.com/cdn/shop/files/Mechazilla_wall_decal_600x.png?v=1731537018"
+    ]
+  },
+  {
+    "id": 71,
+    "name": "Starship 2025 Yearly Mission Patch",
+    "price": 15,
+    "currency": "USD",
+    "status": "available",
+    "category": "Mission Patches",
+    "collections": [
+      "Accessories"
+    ],
+    "gender": "Unisex",
+    "url": "https://shop.spacex.com/products/starship-2025-yearly-mission-patch",
+    "images": [
+      "https://shop.spacex.com/cdn/shop/files/SpaceX_Starship_Yearly_2025_Patch_600x.png?v=1758321619"
+    ]
+  },
+  {
+    "id": 72,
+    "name": "Starship Flight 10 Mission Patch",
+    "price": 15,
+    "currency": "USD",
+    "status": "available",
+    "category": "Mission Patches",
+    "collections": [
+      "Accessories"
+    ],
+    "gender": "Unisex",
+    "url": "https://shop.spacex.com/products/starship-flight-10-mission-patch",
+    "images": [
+      "https://shop.spacex.com/cdn/shop/files/SPACEX_STARSHIP_FLIGHT_10_MISSION_PATCH_d6a07a4f-d4ff-495b-af14-89393f4d2b82_600x.png?v=1756253192"
+    ]
+  },
+  {
+    "id": 73,
+    "name": "Starship Flight 9 Mission Patch",
+    "price": 15,
+    "currency": "USD",
+    "status": "available",
+    "category": "Mission Patches",
+    "collections": [
+      "Accessories"
+    ],
+    "gender": "Unisex",
+    "url": "https://shop.spacex.com/products/starship-flight-9-mission-patch",
+    "images": [
+      "https://shop.spacex.com/cdn/shop/files/SpaceX_Starship_Flight_9_Mission_Patch_600x.png?v=1748392240"
+    ]
+  },
+  {
+    "id": 74,
+    "name": "Starship Flight 8 Mission Patch",
+    "price": 15,
+    "currency": "USD",
+    "status": "available",
+    "category": "Mission Patches",
+    "collections": [
+      "Accessories"
+    ],
+    "gender": "Unisex",
+    "url": "https://shop.spacex.com/products/starship-flight-8-mission-patch",
+    "images": [
+      "https://shop.spacex.com/cdn/shop/files/SpaceX_Starship_Flight_8_Patch_600x.png?v=1741304739"
+    ]
+  },
+  {
+    "id": 75,
+    "name": "Starship Flight 7 Mission Patch",
+    "price": 15,
+    "currency": "USD",
+    "status": "available",
+    "category": "Mission Patches",
+    "collections": [
+      "Accessories"
+    ],
+    "gender": "Unisex",
+    "url": "https://shop.spacex.com/products/starship-flight-7-mission-patch",
+    "images": [
+      "https://shop.spacex.com/cdn/shop/files/SpaceX_Starship_Flight_7_Patch_600x.png?v=1737085560"
+    ]
+  },
+  {
+    "id": 76,
+    "name": "Starship Flight 6 Mission Patch",
+    "price": 15,
+    "currency": "USD",
+    "status": "available",
+    "category": "Mission Patches",
+    "collections": [
+      "Accessories"
+    ],
+    "gender": "Unisex",
+    "url": "https://shop.spacex.com/products/starship-flight-6-mission-patch",
+    "images": [
+      "https://shop.spacex.com/cdn/shop/files/SpaceX_Starship_Flight_6_Patch_600x.png?v=1731349507"
+    ]
+  },
+  {
+    "id": 77,
+    "name": "Starship Flight 5 Mission Patch",
+    "price": 15,
+    "currency": "USD",
+    "status": "available",
+    "category": "Mission Patches",
+    "collections": [
+      "Accessories"
+    ],
+    "gender": "Unisex",
+    "url": "https://shop.spacex.com/products/starship-flight-5-mission-patch",
+    "images": [
+      "https://shop.spacex.com/cdn/shop/files/SpaceX_Starship_Flight_5_Patch_600x.png?v=1728506804"
+    ]
+  },
+  {
+    "id": 78,
+    "name": "Starship Flight 4 Mission Patch",
+    "price": 15,
+    "currency": "USD",
+    "status": "available",
+    "category": "Mission Patches",
+    "collections": [
+      "Accessories"
+    ],
+    "gender": "Unisex",
+    "url": "https://shop.spacex.com/products/starship-flight-4-mission-patch",
+    "images": [
+      "https://shop.spacex.com/cdn/shop/files/SpaceX_Starship_Flight4_Patch_600x.png?v=1717023213"
+    ]
+  },
+  {
+    "id": 79,
+    "name": "Starship Flight 3 Mission Patch",
+    "price": 15,
+    "currency": "USD",
+    "status": "available",
+    "category": "Mission Patches",
+    "collections": [
+      "Accessories"
+    ],
+    "gender": "Unisex",
+    "url": "https://shop.spacex.com/products/starship-flight-3-mission-patch",
+    "images": [
+      "https://shop.spacex.com/cdn/shop/files/SpaceXStarshipFlight3Patch_600x.png?v=1707174435"
+    ]
+  },
+  {
+    "id": 80,
+    "name": "Starship Flight 2 Mission Patch",
+    "price": 15,
+    "currency": "USD",
+    "status": "available",
+    "category": "Mission Patches",
+    "collections": [
+      "Accessories"
+    ],
+    "gender": "Unisex",
+    "url": "https://shop.spacex.com/products/starship-flight-2-mission-patch",
+    "images": [
+      "https://shop.spacex.com/cdn/shop/files/SpaceXStarshipFlight2Patch_e4da0f89-3dd7-4a62-9d2d-bc4227ebaa85_600x.png?v=1713917297"
+    ]
+  },
+  {
+    "id": 81,
+    "name": "Starship Test Flight Mission Patch",
+    "price": 15,
+    "currency": "USD",
+    "status": "available",
+    "category": "Mission Patches",
+    "collections": [
+      "Accessories"
+    ],
+    "gender": "Unisex",
+    "url": "https://shop.spacex.com/products/starship-test-flight-mission-patch",
+    "images": [
+      "https://shop.spacex.com/cdn/shop/files/STARSHIPTESTFLIGHTPATCH_600x.png?v=1713917623"
+    ]
+  },
+  {
+    "id": 82,
+    "name": "SpaceX Fram2 Mission Patch",
+    "price": 15,
+    "currency": "USD",
+    "status": "available",
+    "category": "Mission Patches",
+    "collections": [
+      "Accessories"
+    ],
+    "gender": "Unisex",
+    "url": "https://shop.spacex.com/products/spacex-fram2-mission-patch",
+    "images": [
+      "https://shop.spacex.com/cdn/shop/files/SpaceX_Fram2_Mission_Patch_9510fcfc-ee27-43c9-9ed7-a7d46b2530b6_600x.png?v=1743782269"
+    ]
+  },
+  {
+    "id": 83,
+    "name": "Unisex Starship Flight 10 T-Shirt",
+    "price": 35,
+    "currency": "USD",
+    "status": "available",
+    "category": "Shirts",
+    "collections": [
+      "Men",
+      "Flight Shirts"
+    ],
+    "gender": "Unisex",
+    "colors": [
+      "Black"
+    ],
+    "url": "https://shop.spacex.com/products/unisex-starship-flight-10-t-shirt",
+    "images": [
+      "https://shop.spacex.com/cdn/shop/files/STARSHIP_FLIGHT_10_UNISEX_BLACK_T-SHIRT_FRONT_600x.png?v=1756253082",
+      "https://shop.spacex.com/cdn/shop/files/SPACEX_STARSHIP_FLIGHT_10_UNISEX_T-SHIRT_BLACK_BACK_600x.png?v=1756253082"
+    ]
+  },
+  {
+    "id": 84,
+    "name": "Unisex Starship Flight 9 T-Shirt",
+    "price": 35,
+    "currency": "USD",
+    "status": "available",
+    "category": "Shirts",
+    "collections": [
+      "Men",
+      "Flight Shirts"
+    ],
+    "gender": "Unisex",
+    "colors": [
+      "Black"
+    ],
+    "url": "https://shop.spacex.com/products/unisex-starship-flight-9-t-shirt",
+    "images": [
+      "https://shop.spacex.com/cdn/shop/files/STARSHIP_FLIGHT_9_UNISEX_BLACK_T-SHIRT_FRONT_600x.png?v=1748392269",
+      "https://shop.spacex.com/cdn/shop/files/SpaceX_Unisex_Starship_Flight_9_Tshirt_600x.png?v=1748392269"
+    ]
+  },
+  {
+    "id": 85,
+    "name": "Unisex Starship Flight 8 T-Shirt",
+    "price": 35,
+    "currency": "USD",
+    "status": "available",
+    "category": "Shirts",
+    "collections": [
+      "Men",
+      "Flight Shirts"
+    ],
+    "gender": "Unisex",
+    "colors": [
+      "Black"
+    ],
+    "url": "https://shop.spacex.com/products/unisex-starship-flight-8-t-shirt",
+    "images": [
+      "https://shop.spacex.com/cdn/shop/files/STARSHIP_FLIGHT_8_UNISEX_BLACK_T-SHIRT_FRONT_600x.png?v=1741304703",
+      "https://shop.spacex.com/cdn/shop/files/SpaceX_Starship_Flight_8_Tshirt_Back_600x.png?v=1741304703"
+    ]
+  },
+  {
+    "id": 86,
+    "name": "Unisex Starship Flight 7 T-Shirt",
+    "price": 35,
+    "currency": "USD",
+    "status": "available",
+    "category": "Shirts",
+    "collections": [
+      "Men",
+      "Flight Shirts"
+    ],
+    "gender": "Unisex",
+    "colors": [
+      "Black"
+    ],
+    "url": "https://shop.spacex.com/products/unisex-starship-flight-7-t-shirt",
+    "images": [
+      "https://shop.spacex.com/cdn/shop/files/STARSHIP_FLIGHT_7_UNISEX_BLACK_T-SHIRT_FRONT_fb62801e-87e5-4462-86af-f6f7820b564c_600x.png?v=1736547938",
+      "https://shop.spacex.com/cdn/shop/files/SpaceX_Starship_Flight_7_Tshirt_Back_600x.png?v=1736547938"
+    ]
+  },
+  {
+    "id": 87,
+    "name": "Unisex Starship Flight 6 T-Shirt",
+    "price": 35,
+    "currency": "USD",
+    "status": "available",
+    "category": "Shirts",
+    "collections": [
+      "Men",
+      "Flight Shirts"
+    ],
+    "gender": "Unisex",
+    "colors": [
+      "Black"
+    ],
+    "url": "https://shop.spacex.com/products/unisex-starship-flight-6-t-shirt",
+    "images": [
+      "https://shop.spacex.com/cdn/shop/files/SPACEX_STARSHIP_FLIGHT_6_T-SHIRT_BLACK_FRONT_600x.png?v=1731359547",
+      "https://shop.spacex.com/cdn/shop/files/SpaceX_Starship_Flight_6_Tshirt_Back_Black_600x.png?v=1731359541"
+    ]
+  },
+  {
+    "id": 88,
+    "name": "Unisex Starship Flight 5 T-Shirt",
+    "price": 35,
+    "currency": "USD",
+    "status": "available",
+    "category": "Shirts",
+    "collections": [
+      "Men",
+      "Flight Shirts"
+    ],
+    "gender": "Unisex",
+    "colors": [
+      "Black"
+    ],
+    "url": "https://shop.spacex.com/products/unisex-starship-flight-5-t-shirt",
+    "images": [
+      "https://shop.spacex.com/cdn/shop/files/STARSHIPFLIGHT5_UNISEX-BLACK-FRONT_600x.png?v=1722458969",
+      "https://shop.spacex.com/cdn/shop/files/SpaceX_Starship_Flight5_Tshirt_Back_45ad79ee-9d16-4f75-9bf6-6ddf109419d9_600x.png?v=1722462944"
+    ]
+  },
+  {
+    "id": 89,
+    "name": "Unisex Starship Flight 4 T-Shirt",
+    "price": 35,
+    "currency": "USD",
+    "status": "available",
+    "category": "Shirts",
+    "collections": [
+      "Men",
+      "Flight Shirts"
+    ],
+    "gender": "Unisex",
+    "colors": [
+      "Black"
+    ],
+    "url": "https://shop.spacex.com/products/unisex-starship-flight-4-t-shirt",
+    "images": [
+      "https://shop.spacex.com/cdn/shop/files/STARSHIPFLIGHT4_UNISEX-BLACK-FRONT_600x.png?v=1717030767",
+      "https://shop.spacex.com/cdn/shop/files/SpaceX_Starship_Flight4_Tshirt_600x.png?v=1717030767"
+    ]
+  },
+  {
+    "id": 90,
+    "name": "Unisex Starship Flight 3 T-Shirt",
+    "price": 35,
+    "currency": "USD",
+    "status": "available",
+    "category": "Shirts",
+    "collections": [
+      "Men",
+      "Flight Shirts"
+    ],
+    "gender": "Unisex",
+    "colors": [
+      "Black"
+    ],
+    "url": "https://shop.spacex.com/products/unisex-starship-flight-2-t-shirt-1",
+    "images": [
+      "https://shop.spacex.com/cdn/shop/files/STARSHIPFLIGHT3_UNISEX-BLACK-FRONT_600x.png?v=1706825113",
+      "https://shop.spacex.com/cdn/shop/files/STARSHIPFLIGHT3_UNISEX-BLACK-BACK_600x.png?v=1706825113"
+    ]
+  },
+  {
+    "id": 91,
+    "name": "Unisex Starship Flight 2 T-Shirt",
+    "price": 35,
+    "currency": "USD",
+    "status": "available",
+    "category": "Shirts",
+    "collections": [
+      "Men",
+      "Flight Shirts"
+    ],
+    "gender": "Unisex",
+    "colors": [
+      "Black"
+    ],
+    "url": "https://shop.spacex.com/products/unisex-starship-flight-2-t-shirt",
+    "images": [
+      "https://shop.spacex.com/cdn/shop/files/STARSHIPFLIGHT2_MENS-BLACK-FRONT_600x.png?v=1693602833",
+      "https://shop.spacex.com/cdn/shop/files/STARSHIPFLIGHT2_MENS-BLACK-BACK_600x.png?v=1693602833"
+    ]
+  },
+  {
+    "id": 92,
+    "name": "Unisex Starship Test Flight T-Shirt",
+    "price": 35,
+    "currency": "USD",
+    "status": "available",
+    "category": "Shirts",
+    "collections": [
+      "Men",
+      "Flight Shirts"
+    ],
+    "gender": "Unisex",
+    "colors": [
+      "Black"
+    ],
+    "url": "https://shop.spacex.com/products/mens-starship-test-flight-t-shirt",
+    "images": [
+      "https://shop.spacex.com/cdn/shop/products/STARSHIPTESTFLIGHT_MENS-BLACK-FRONT_600x.png?v=1678921549",
+      "https://shop.spacex.com/cdn/shop/products/STARSHIPTESTFLIGHT_MENS-T-SHIRT-BLACK-BACK_600x.png?v=1678921529"
+    ]
+  }
+]
